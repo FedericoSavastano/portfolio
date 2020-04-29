@@ -782,7 +782,8 @@ footer {
   display: flex;
   justify-content: space-evenly;
   padding: 2rem;
-  background: url(/images/web/webbannerblur.jpg);
+/*  background: url(/images/web/webbannerblur.jpg); */
+  background-image: url("images/web/webbannerblur.jpg");
   filter: brightness(110%);
   border-top: 4px solid var(--main-red);
 }
